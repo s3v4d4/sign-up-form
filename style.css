@@ -1,0 +1,16 @@
+.image img {
+    max-width: 100%;
+}
+
+
+body {
+    display: flex;
+}
+
+.form {
+    flex: 1 1 auto;
+}
+
+li {
+    list-style-type: none;
+}
